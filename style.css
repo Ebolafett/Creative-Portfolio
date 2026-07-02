@@ -114,3 +114,26 @@ footer {
     display: block;
   }
 }
+
+/* social icons */
+
+.social-icon {
+  color: white;
+  text-decoration: none;
+}
+
+.social-icon:visited {
+  color: white;
+}
+
+.social-icon:hover {
+  color: white;
+}
+
+.social-icon:active {
+  color: white;
+}
+
+.social-icon i {
+  color: white;
+}
